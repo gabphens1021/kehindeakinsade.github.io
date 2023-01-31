@@ -1,20 +1,18 @@
-name: John Doe
+name: Kehinde Akinsade
 support_dark_mode: true
 fork: true
 
 # Sidebar
 contact:
-  email: info@johndoe.com
-  github: johndoe
+  email: kuku1021@icloud.com
+  github: gabphens1021
   linkedin: johndoe
-  phone: 
+  phone: +1 639 384 2185
   gitlab: 
   twitter: 
 
 languages:
   - idiom: English
-  - idiom: Russian
-  - idiom: French
 
 education:
   - degree: MSc in Informatics
