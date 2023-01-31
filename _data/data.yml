@@ -6,7 +6,7 @@ fork: true
 contact:
   email: kuku1021@icloud.com
   github: gabphens1021
-  linkedin: johndoe
+  linkedin: 
   phone: +1 639 384 2185
   gitlab: 
   twitter: 
@@ -15,27 +15,27 @@ languages:
   - idiom: English
 
 education:
-  - degree: MSc in Informatics
-    time: 2014-2016
-    university: Ionian University
+  - degree: Diploma in Applied Devops Engineering
+    time: 2022-2023
+    university: Toronto Institute of Data Science and Technology
 
   - degree: BSc in Computer Science
-    time: 2010-2014
-    university: Ionian University
+    time: 2013-2017
+    university: ISFOP Benin University
 
 skills:
   - category: Backend
     skill: 
       - Go
       - Rust
-  - category: Frontend
-    skill:
-      - React
-      - Typescript
+
   - category: DevOps
     skill:
       - Docker
       - Kubernetes 
+      - Terraform
+      - Ansible
+      - 
 
 # Profile
 profile: |
