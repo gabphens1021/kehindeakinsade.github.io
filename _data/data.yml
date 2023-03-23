@@ -54,7 +54,7 @@ experience:
       quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. 
       Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu 
       fugiat nulla pariatur.
-    technology used: 
+    Technology Used: 
 
   - role: IT Support Technician
     time: 2018-2021
@@ -64,7 +64,7 @@ experience:
       Installing, configuring and maintaining software and hardware components of computer and network systems. <br>
       Diagnosing and troubleshooting software and hardware issues. <br>
       Maintaining and updating technical documentation regularly.
-    technology used: VirtualBox, Microsoft OneNote, AWS, osTicket
+    Technology Used: VirtualBox, Microsoft OneNote, AWS, osTicket.
 
 projects:
   - title: Kubernetes Based Voting Application 
