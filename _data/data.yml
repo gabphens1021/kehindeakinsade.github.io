@@ -8,18 +8,16 @@ contact:
   github: gabphens1021
   linkedin: 
   phone: +1 639 384 2185
-  gitlab: 
-  twitter: 
 
 languages:
   - idiom: English
 
 education:
-  - degree: Devops Engineering
+  - degree: Diploma- Devops Engineering
     time: 2022-2023
     university: WeCloudData INC
 
-  - degree: BSc in Computer Science
+  - degree: BSc- Computer Science
     time: 2013-2017
     university: ISFOP Benin University
 
@@ -56,6 +54,7 @@ experience:
       quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. 
       Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu 
       fugiat nulla pariatur.
+    technology used: 
 
   - role: IT Support Technician
     time: 2018-2021
@@ -65,16 +64,7 @@ experience:
       Installing, configuring and maintaining software and hardware components of computer and network systems. <br>
       Diagnosing and troubleshooting software and hardware issues. <br>
       Maintaining and updating technical documentation regularly.
-
-  - role: Researcher
-    time: 2016-2020
-    company: Microsoft
-    details: |
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod 
-      tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, 
-      quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. 
-      Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu 
-      fugiat nulla pariatur.
+    technology used: VirtualBox, Microsoft OneNote, AWS, osTicket
 
 projects:
   - title: Kubernetes Based Voting Application 
