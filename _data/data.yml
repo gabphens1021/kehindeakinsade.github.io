@@ -64,7 +64,8 @@ experience:
       Installing, configuring and maintaining software and hardware components of computer and network systems. <br>
       Diagnosing and troubleshooting software and hardware issues. <br>
       Maintaining and updating technical documentation regularly.
-    Technology Used: VirtualBox, Microsoft OneNote, AWS, osTicket.
+    Technology Used: 
+      VirtualBox, Microsoft OneNote, AWS, osTicket.
 
 projects:
   - title: Kubernetes Based Voting Application 
