@@ -49,21 +49,21 @@ experience:
     time: 2021-Present
     company: Mand Tyres
     details: |  
-      Provide basic end-user troubleshooting and desktop support. 
-      Delivered exceptional customer service to every customer by leveraging extensive knowledge of products and services and creating welcoming positive experiences. 
-      Used ticketing systems to manage and process support actions and requests.
+      Provide basic end-user troubleshooting and desktop support.<br>
+      Delivered exceptional customer service to every customer by leveraging extensive knowledge of products and services and creating welcoming positive experiences.<br>
+      Used ticketing systems to manage and process support actions and requests. <br>
       Patch software and installed new versions to eliminate security problems and protect data.
     Technology Used: 
 
   - role: IT Support Technician
     time: 2018-2021
-    company: Revenue Service Ltd
+    company: Revenue Service Ltd, Lagos Nigeria
     details: |
       Ensuring that organization technology infrastructure is running smoothly and effectively. <br>
       Installing, configuring and maintaining software and hardware components of computer and network systems. <br>
       Diagnosing and troubleshooting software and hardware issues. <br>
       Maintaining and updating technical documentation regularly.
-    Technology Used:  
+    Technology Used: 
 
 projects:
   - title: Kubernetes Based Voting Application 
