@@ -90,7 +90,7 @@ projects:
       Deployed a Kubernetes-based voting application, which allowed users to vote for their preferred option in a poll. <p> 
       The application consisted of a frontend written in ReactJS and a backend written in Python Flask. 
       Both frontend and backend were containerized using Docker and deployed on a Kubernetes cluster. <p> 
-      Skill/Technology Used <b>: AWS EKS, Docker, Github Actions, Load testing, Performance tuning, ReactJS, Python Flask.
+      Skill/Technology Used: AWS EKS, Docker, Github Actions, Load testing, Performance tuning, ReactJS, Python Flask.
 
 
   - title: Cool Project 
