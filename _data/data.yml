@@ -61,15 +61,12 @@ experience:
 
   - role: IT Support Technician
     time: 2018-2021
-    company: Revenue Service
+    company: Revenue Service Ltd
     details: |
       Ensuring that organization technology infrastructure is running smoothly and effectively. <p>
-      tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, 
-      quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. 
-      Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu 
-      fugiat nulla pariatur.
-    technologies_used: | 
-      Python, Tensorflow, Keras, Matlab
+      Installing, configuring and maintaining software and hardware components of computer and network systems. <p> 
+      Diagnosing and troubleshooting software and hardware issues. 
+      Maintaining and updating technical documentation regularly.
 
   - role: Researcher
     time: 2016-2020
