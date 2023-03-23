@@ -15,9 +15,9 @@ languages:
   - idiom: English
 
 education:
-  - degree: Diploma in Applied Devops Engineering
+  - degree: Devops Engineering
     time: 2022-2023
-    university: Toronto Institute of Data Science and Technology
+    university: WeCloudData INC
 
   - degree: BSc in Computer Science
     time: 2013-2017
@@ -35,7 +35,7 @@ skills:
       - Kubernetes 
       - Terraform
       - Ansible
-      - 
+      - Linux
 
 # Profile
 profile: |
