@@ -35,6 +35,7 @@ skills:
       - Kubernetes 
       - Terraform
       - Ansible
+      - Jenkins
       - Linux
 
 # Profile
@@ -58,11 +59,11 @@ experience:
     technologies_used: | 
       Go, Angular, Typescript, C++
 
-  - role: Researcher
-    time: 2016-2020
-    company: Microsoft
+  - role: IT Support Technician
+    time: 2018-2021
+    company: Revenue Service
     details: |
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod 
+      Ensuring that organization technology infrastructure is running smoothly and effectively. <p>
       tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, 
       quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. 
       Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu 
@@ -81,24 +82,15 @@ experience:
       fugiat nulla pariatur.
     technologies_used: | 
       Python, Tensorflow, Keras, Matlab
-
-publications:
-  - title: Random title of paper. An interesting one.
-    link: "#"
-    authors: John E. Doe
-    conference: Some conference, 2016
-
-  - title: Second title of paper. An interesting one too.
-    link: "#"
-    authors: John E. Doe
-    conference: Some conference again, 2018
 
 projects:
   - title: Kubernetes Based Voting Application 
     link: #
     details: |
-      Designed and deployed a Kubernetes-based voting application, which allowed users to vote for their preferred option in a poll, between a cat and a dog. <p> The application consisted of a frontend written in ReactJS and a backend written in Python Flask. 
-      Both frontend and backend were containerized using Docker and deployed on a Kubernetes cluster. <p> Skill/technology used: AWS EKS, Docker, Kubernetes, Github Actions, Load testing, Performance tuning, ReactJS, Python Flask
+      Deployed a Kubernetes-based voting application, which allowed users to vote for their preferred option in a poll. <p> 
+      The application consisted of a frontend written in ReactJS and a backend written in Python Flask. 
+      Both frontend and backend were containerized using Docker and deployed on a Kubernetes cluster. <p> 
+      Skill/Technology Used <b>: AWS EKS, Docker, Github Actions, Load testing, Performance tuning, ReactJS, Python Flask.
 
 
   - title: Cool Project 
