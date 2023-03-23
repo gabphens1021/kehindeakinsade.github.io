@@ -57,7 +57,7 @@ experience:
       fugiat nulla pariatur.
     technologies_used: | 
       Go, Angular, Typescript, C++
-      
+
   - role: Researcher
     time: 2016-2020
     company: Microsoft
@@ -94,15 +94,18 @@ publications:
     conference: Some conference again, 2018
 
 projects:
-  - title: Cool Project 
+  - title: Kubernetes Based Voting Application 
     link: #
     details: |
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod 
-      tempor incididunt ut labore et dolore magna aliqua.
+      Designed and deployed a Kubernetes-based voting application, which allowed users to vote for their preferred option in a poll, between a cat and a dog. <p> The application consisted of a frontend written in ReactJS and a backend written in Python Flask. 
+      Both frontend and backend were containerized using Docker and deployed on a Kubernetes cluster.
+    skills/technologies:
+      AWS EKS, Docker, Kubernetes, Github Actions, Load testing, Performance tuning, ReactJS, Python Flask
 
   - title: Cool Project 
     link: #
     details: |
       Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod 
       tempor incididunt ut labore et dolore magna aliqua.
-
+    skills/technologies:
+      List all technologies used here.
