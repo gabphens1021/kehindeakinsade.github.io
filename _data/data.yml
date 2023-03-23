@@ -64,9 +64,6 @@ experience:
       Installing, configuring and maintaining software and hardware components of computer and network systems. <br>
       Diagnosing and troubleshooting software and hardware issues. <br>
       Maintaining and updating technical documentation regularly.
-    Technology Used: 
-      VirtualBox, Microsoft OneNote, AWS, osTicket.
-
 projects:
   - title: Kubernetes Based Voting Application 
     link: #
@@ -75,7 +72,6 @@ projects:
       The application consisted of a frontend written in ReactJS and a backend written in Python Flask. 
       Both frontend and backend were containerized using Docker and deployed on a Kubernetes cluster. <p> 
       Skill/Technology Used: AWS EKS, Docker, Github Actions, Load testing, Performance tuning, ReactJS, Python Flask.
-
 
   - title: Cool Project 
     link: #
