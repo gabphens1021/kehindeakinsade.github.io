@@ -66,7 +66,7 @@ experience:
     Technology Used: 
 
 projects:
-  - title: Kubernetes Based Voting Application <b>
+  - title: Kubernetes Based Voting Application.
     link: #
     details: |
       Deployed a Kubernetes-based voting application, which allowed users to vote for their preferred option in a poll. <p> 
@@ -74,7 +74,7 @@ projects:
       Both frontend and backend were containerized using Docker and deployed on a Kubernetes cluster. <p> 
     Skill/Technology Used: AWS EKS, Docker, Github Actions, Load testing, Performance tuning, ReactJS, Python Flask.
 
-  - title: Two-Tier Architecture in AWS with Terraform <b>
+  - title: Two-Tier Architecture in AWS with Terraform.
     link: #
     details: |
       I used Terraform to deploy a Two-Tier Architecture on AWS. <br> 
