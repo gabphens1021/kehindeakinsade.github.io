@@ -74,9 +74,11 @@ projects:
       Both frontend and backend were containerized using Docker and deployed on a Kubernetes cluster. <p> 
       Skill/Technology Used: AWS EKS, Docker, Github Actions, Load testing, Performance tuning, ReactJS, Python Flask.
 
-  - title: Building a Two-Tier Architecture in AWS using Terraform 
+  - title: Two-Tier Architecture in AWS with Terraform 
     link: #
     details: |
-      Lorem ipsum dolor sit amet, Starting up a new kubernetes, sed do eiusmod 
-      tempor incididunt ut labore et dolore magna aliqua.
+      I used Terraform to deploy a Two-Tier Architecture on AWS. <b> 
+      The architecture consists of a web server and a database server, with the web server in a public subnet and the database server in a private subnet. The web server is load-balanced and can be scaled horizontally. <b> 
+      The database server is backed up regularly to an S3 bucket. The architecture is secured using security groups and Network ACLs. <b> 
+      The entire infrastructure was provisioned and managed using Infrastructure as Code (IaC) principles.
 
