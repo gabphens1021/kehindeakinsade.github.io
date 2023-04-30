@@ -74,7 +74,7 @@ projects:
       Both frontend and backend were containerized using Docker and deployed on a Kubernetes cluster. <p> 
       Skill/Technology Used: AWS EKS, Docker, Github Actions, Load testing, Performance tuning, ReactJS, Python Flask.
 
-  - title: Cool Project 
+  - title: Building a Two-Tier Architecture in AWS using Terraform 
     link: #
     details: |
       Lorem ipsum dolor sit amet, Starting up a new kubernetes, sed do eiusmod 
