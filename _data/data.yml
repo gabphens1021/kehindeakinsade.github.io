@@ -66,7 +66,7 @@ experience:
     Technology Used: 
 
 projects:
-  - title: Kubernetes Based Voting Application.
+  - title: Kubernetes Based Voting Application. <B>
     link: #
     details: |
       Deployed a Kubernetes-based voting application, which allowed users to vote for their preferred option in a poll. <p> 
