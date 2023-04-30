@@ -77,8 +77,8 @@ projects:
   - title: Two-Tier Architecture in AWS with Terraform 
     link: #
     details: |
-      I used Terraform to deploy a Two-Tier Architecture on AWS. <b> 
-      The architecture consists of a web server and a database server, with the web server in a public subnet and the database server in a private subnet. The web server is load-balanced and can be scaled horizontally. <b> 
-      The database server is backed up regularly to an S3 bucket. The architecture is secured using security groups and Network ACLs. <b> 
-      The entire infrastructure was provisioned and managed using Infrastructure as Code (IaC) principles.
+      I used Terraform to deploy a Two-Tier Architecture on AWS. <br> 
+      The architecture consists of a web server and a database server, with the web server in a public subnet and the database server in a private subnet. The web server is load-balanced and can be scaled horizontally. <br> 
+      The database server is backed up regularly to an S3 bucket. The architecture is secured using security groups and Network ACLs. <br> 
+      The entire infrastructure was provisioned and managed using Infrastructure as Code (IaC) principles. 
 
